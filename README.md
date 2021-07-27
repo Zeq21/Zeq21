@@ -2,7 +2,9 @@
 - 👀 I’m interested in aprender e contribuir 
 - 🌱 I’m currently learning ...
 HTM,CSS,JS
-- 💞️ I’m looking to collaborate on ...
+
+- 💞️ I’m looking to collaborate on 
+Desenvolvimento web
 - 📫 How to reach me ...
 
 <!---
